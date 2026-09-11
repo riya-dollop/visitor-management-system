@@ -1,16 +1,14 @@
-# React + Vite
+firslty i created the visitor management system frontend design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+the static credtials to login this app is
 
-Currently, two official plugins are available:
+email:riya@gmail.com
+ppassword:riya123
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+build command:npm install/npm i
+run command is :npm run dev
 
-## React Compiler
+firstly login though this credintials and then perform next opertaions 
+like add visitors add show there list in tabular form 
+and also approve reject and delet the visitors and the login state is saved in localstorage so that the application or page is loaded its not logout this app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
